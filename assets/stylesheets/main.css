@@ -678,7 +678,7 @@
 
   .section3-card{
     display: grid;
-    grid-template-columns: 35% 65%;
+    grid-template-columns: 1fr 2fr;
     grid-gap: 30px;
     align-items:center;
     background-color: white;
